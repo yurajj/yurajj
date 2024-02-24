@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yurajj
-- 👀 I’m interested in Bigdata, backend
-- 🌱 I’m currently learning Statistics programs(R, SAS, minitab, spss) and computer language(C, JAVA, C++).
+- 👀 I’m interested in Bigdata!
+- 🌱 I’m currently learning Statistics programs(R, SAS, minitab, spss, sql, python) and computer language(C, JAVA, C++).
 - 💞️ I'm still not good enough. So I'm trying to study a lot.
 
 <!---
